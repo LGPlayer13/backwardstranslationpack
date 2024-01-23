@@ -1,28 +1,31 @@
-Press %key.guidebook to open the Guidebook.
-Portals can be as large (or small) as you want.
-The Trommel lets you turn useless dirt into valuable resources.
-Cherry trees bloom in spring.
-Leather boots keep your crops safe from trampling.
-Seasons change every 7 days.
-Items fall through mesh blocks.
-Blast furnaces smelt faster than regular ones.
-Press %key.fly to fly in creative.
-Moss spreads to nearby blocks. See what it can spread to!
-Use %key.fly + scroll up/down to change flying speed in creative.
-Sick of watching grass grow? Use bonemeal on dirt.
-Beds need blankets! Use cloth to craft them.
-Quivers provide a convenient way to store a lot of arrows.
-Olivine is a decent substitute for Nether coal.
-Outback soil is rich with minerals.
-There are 4 main types of rock! See which one you like best.
-Fancy a splash of color? Try painting wooden planks!
-Press %key.hotbar.switch to change your active hotbar.
-Use a compass to see your coordinates.
-Use a clock to see the time of day.
-Use a rotary calendar to see the season.
-Labyrinths contain rare and exciting treasures.
-Right-clicking on one flag while holding another will copy its pattern.
-Signs can be dyed.
-Pebbles can be placed on the ground to make a nice path.
-Labels can be used to rename mobs and items.
-Press LCTRL while hovering over an item to see its description.
+.koobediuG eht nepo ot %key.guidebook sserP
+.tnaw uoy sa (llams ro) egral sa eb nac slatroP
+.secruoser elbaulav otni trid sselesu nrut uoy stel lemmorT ehT
+.gnirps ni moolb seert yrrehC
+.gnilpmart morf efas sporc ruoy peek stoob rehtaeL
+.syad 7 yreve egnahc snosaeS
+.skcolb hsem hguorht llaf smetI
+.seno raluger naht retsaf tlems secanruf tsalB
+.evitaerc ni ylf ot %key.fly sserP
+!ot daerps nac ti tahw eeS .skcolb ybraen ot sdaerps ssoM
+.evitaerc ni deeps gniylf egnahc ot nwod/pu llorcs + %key.fly esU
+.trid no laemenob esU ?worg ssarg gnihctaw fo kciS
+.meht tfarc ot htolc esU !steknalb deen sdeB
+.sworra fo tol a erots ot yaw tneinevnoc a edivorp sreviuQ
+.laoc rehteN rof etutitsbus tneced a si enivilO
+.slarenim htiw hcir si lios kcabtuO
+.tseb ekil uoy eno hcihw eeS !kcor fo sepyt niam 4 era erehT
+!sknalp nedoow gnitniap yrT ?roloc fo hsalps a ycnaF
+.rabtoh evitca ruoy egnahc ot %key.hotbar.switch sserP
+.setanidrooc ruoy ees ot ssapmoc a esU
+.yad fo emit eht ees ot kcolc a esU
+.nosaes eht ees ot radnelac yrator a esU
+.serusaert gniticxe dna erar niatnoc shtnirybaL
+.nrettap sti ypoc lliw rehtona gnidloh elihw galf eno no gnikcilc-thgiR
+.deyd eb nac sngiS
+.htap ecin a ekam ot dnuorg eht no decalp eb nac selbbeP
+.smeti dna sbom emaner ot desu eb nac slebaL
+.noitpircsed sti ees ot meti na revo gnirevoh elihw LRTCL sserP
+.elipmoc ot elba eb dluohs avaJ yaw on si ereht ,scisyhp fo swal nwonk lla ot gnidroccA
+?tfarcenim taht tuoba s'woh oS
+.stun s'eh ,dekcarc yllautca si ukoG
